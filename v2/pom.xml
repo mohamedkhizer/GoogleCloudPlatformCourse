@@ -51,7 +51,7 @@
         <joda.version>2.4</joda.version>
         <findbugs.version>3.0.1</findbugs.version>
         <mvn-target-dir>${basedir}/target</mvn-target-dir>
-        <derby.version>10.12.1.1</derby.version>
+        <derby.version>10.14.2.0</derby.version>
     </properties>
 
     <dependencies>
